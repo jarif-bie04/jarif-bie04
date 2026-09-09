@@ -48,7 +48,7 @@
 <!-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) -->
 
 <!-- ---
-<!-- 
+
 ### 📌 Featured Projects
 
 | Project | Description |
@@ -56,7 +56,7 @@
 | [🧬 project-name](https://github.com/yourname/project) | Nextflow pipeline for variant calling from WGS data |
 | [⚙️ project-name](https://github.com/yourname/project) | REST API / systems-level engineering project |
 | [🤖 project-name](https://github.com/yourname/project) | ML model for gene expression classification |
-| [🔧 contribution](https://github.com/org/tool) | Contribution to an established bioinformatics tool | -->
+| [🔧 contribution](https://github.com/org/tool) | Contribution to an established bioinformatics tool |
 
 --- -->
 
