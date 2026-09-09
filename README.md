@@ -16,7 +16,7 @@
 <!-- - 🌱 Currently learning: *[e.g. Nextflow, Kubernetes, deep learning for genomics]* -->
 - 💬 Ask me about: *[Bioinformatics pipelines / Python / Algorithms / etc.]*
 - 📫 Reach me: **[jarif.ayman2005@gmail.com]**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jarif-ayman005/) • [Personal site](https://yoursite.com) • [ORCID](https://orcid.org/0009-0007-6725-5015)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jarif-ayman005/)• [ORCID](https://orcid.org/0009-0007-6725-5015)
 <!-- - 🔗 [LinkedIn](https://www.linkedin.com/in/jarif-ayman005/) • [Personal site](https://yoursite.com) • [ORCID](https://orcid.org/xxxx) -->
 ---
 
