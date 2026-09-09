@@ -63,12 +63,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jarif-bie04&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarif-bie04&layout=compact" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jarif-bie04" alt="Streak Stats"/>
 </p>
 
 ---
